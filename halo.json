@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dshakes/halos/releases/download/v0.1.1/halo_0.1.1_windows_amd64.zip",
+            "bin": [
+                "halo.exe"
+            ],
+            "hash": "aabd2afd5d5c43b0c427170c13e830ccc91ca38f386cc8bf4a9a07ce915f8351"
+        },
+        "arm64": {
+            "url": "https://github.com/dshakes/halos/releases/download/v0.1.1/halo_0.1.1_windows_arm64.zip",
+            "bin": [
+                "halo.exe"
+            ],
+            "hash": "9fc2426f4baeb40c2e2bbfd6b8a8274c78dca34e52bbba0537643f2b0b5491d7"
+        }
+    },
+    "homepage": "https://dshakes.github.io/halos",
+    "license": "Apache-2.0",
+    "description": "Control plane for AI coding CLIs (Claude Code, Codex, Gemini)"
+}
