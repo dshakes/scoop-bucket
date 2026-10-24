@@ -1,19 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dshakes/halos/releases/download/v0.2.1/halo_0.2.1_windows_amd64.zip",
+            "url": "https://github.com/dshakes/halos/releases/download/v0.3.0/halo_0.3.0_windows_amd64.zip",
             "bin": [
                 "halo.exe"
             ],
-            "hash": "9c0bbe29dca87a6efb8d2016357429a7d4dd93962d84774911253302ef6546d7"
+            "hash": "70748ce0e60d55eb699e3d6a32071aa5fc2e8357feb711013070161f024d8b9d"
         },
         "arm64": {
-            "url": "https://github.com/dshakes/halos/releases/download/v0.2.1/halo_0.2.1_windows_arm64.zip",
+            "url": "https://github.com/dshakes/halos/releases/download/v0.3.0/halo_0.3.0_windows_arm64.zip",
             "bin": [
                 "halo.exe"
             ],
-            "hash": "ba08244fc8c5e45205bb3bb86a4eb02c214d18099843f654b722094546b2e6fd"
+            "hash": "d34dd52b8372bc4103576707256de655ff52bb7e042a4c36390207e24e63daba"
         }
     },
     "homepage": "https://dshakes.github.io/halos",
